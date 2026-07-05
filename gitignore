@@ -1,0 +1,16 @@
+# NetBeans build output
+/build/
+/dist/
+/nbproject/private/
+/nbbuild/
+/nbdist/
+
+# Compiled classes
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Database file (data lokal, biasanya tidak perlu ikut di-push)
+pendataan.db

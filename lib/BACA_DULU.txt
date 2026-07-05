@@ -1,0 +1,4 @@
+Letakkan file sqlite-jdbc-x.x.x.jar di folder ini.
+Unduh dari: https://github.com/xerial/sqlite-jdbc/releases
+
+Lihat README.txt di folder utama project untuk langkah lengkapnya.
